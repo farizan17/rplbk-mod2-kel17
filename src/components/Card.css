@@ -1,0 +1,10 @@
+.profilecard {
+    max-width: 30%;
+    background-color: rgb(205, 109, 218);
+    border-radius: 100px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+}

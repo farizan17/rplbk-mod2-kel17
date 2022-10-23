@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+input {
+  background-color: rgb(171, 202, 202);
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
